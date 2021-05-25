@@ -1,0 +1,7 @@
+C:\Users\andje\Desktop\FormalneProjektni\FormalneProjektni\bin\Debug\FormalneProjektni.exe.config
+C:\Users\andje\Desktop\FormalneProjektni\FormalneProjektni\bin\Debug\FormalneProjektni.exe
+C:\Users\andje\Desktop\FormalneProjektni\FormalneProjektni\bin\Debug\FormalneProjektni.pdb
+C:\Users\andje\Desktop\FormalneProjektni\FormalneProjektni\obj\Debug\FormalneProjektni.csprojAssemblyReference.cache
+C:\Users\andje\Desktop\FormalneProjektni\FormalneProjektni\obj\Debug\FormalneProjektni.csproj.CoreCompileInputs.cache
+C:\Users\andje\Desktop\FormalneProjektni\FormalneProjektni\obj\Debug\FormalneProjektni.exe
+C:\Users\andje\Desktop\FormalneProjektni\FormalneProjektni\obj\Debug\FormalneProjektni.pdb

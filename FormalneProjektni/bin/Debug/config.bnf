@@ -1,0 +1,9 @@
+<osoba> ::= <podatak> <br> <mail> <web-link> <konstanta> <grad>
+<podatak> ::= <ime> <prezime> | <prezime> <ime>
+<mail> ::= mejl_adresa
+<br> ::= broj_telefona
+<web-link> ::= web_link
+<konstanta> ::= brojevna_konstanta
+<grad> ::= veliki_grad
+<ime> ::= "Andjelina"
+<prezime> ::= regex(Orozovic)
